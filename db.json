@@ -1,0 +1,24 @@
+{
+    "country" :[
+    {
+        "Detail": "5 Summary news about various tours in JAPAN",
+        "Location": "NEWS JAPAN",
+        "Image": "https://soranews24.com/wp-content/uploads/sites/3/2017/06/itsukushima.jpg",
+        "Price": 60000,
+        "Details": "Mount Fuji, Tokyo Tower, Tokyo Skytree, Tokyo Disneyland, Osaka Castle, Tempozan Giant Ferris Wheel, Universal Studios Japan, Osaka Aquarium Kaiyukan and many more.",
+        "Time": "4 mins read",
+        "Date": "29-June-2021",
+        "id": "1"
+    },
+    {
+        "Detail": "5 Summary news about various tours in malaysia",
+        "Location": "NEWS MALAYSIA",
+        "Image": "https://www.holidify.com/images/bgImages/KUALA-LUMPUR.jpg",
+        "Price": 80000,
+        "Details": "Visit in Malaysia · Kuala Lumpur · Penang · Sarawak · Johor · Pahang · Christ Church · Batu Caves · Gunung Gading National Park.",
+        "Time": "5 mins read",
+        "Date": "29-June-2022",
+        "id": "2"
+    }
+    ]
+}
